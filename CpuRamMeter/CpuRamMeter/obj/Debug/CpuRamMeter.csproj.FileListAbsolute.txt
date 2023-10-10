@@ -1,0 +1,27 @@
+D:\Csharp Programming\CpuRamMeter\CpuRamMeter\bin\Debug\CpuRamMeter.exe
+D:\Csharp Programming\CpuRamMeter\CpuRamMeter\bin\Debug\CpuRamMeter.pdb
+D:\Csharp Programming\CpuRamMeter\CpuRamMeter\bin\Debug\MetroFramework.Design.dll
+D:\Csharp Programming\CpuRamMeter\CpuRamMeter\bin\Debug\MetroFramework.dll
+D:\Csharp Programming\CpuRamMeter\CpuRamMeter\bin\Debug\MetroFramework.Fonts.dll
+D:\Csharp Programming\CpuRamMeter\CpuRamMeter\obj\Debug\CpuRamMeter.csprojResolveAssemblyReference.cache
+D:\Csharp Programming\CpuRamMeter\CpuRamMeter\obj\Debug\CpuRamMeter.Properties.Resources.resources
+D:\Csharp Programming\CpuRamMeter\CpuRamMeter\obj\Debug\CpuRamMeter.csproj.GenerateResource.Cache
+D:\Csharp Programming\CpuRamMeter\CpuRamMeter\obj\Debug\CpuRamMeter.csproj.CoreCompileInputs.cache
+D:\Csharp Programming\CpuRamMeter\CpuRamMeter\obj\Debug\CpuRamMeter.exe
+D:\Csharp Programming\CpuRamMeter\CpuRamMeter\obj\Debug\CpuRamMeter.pdb
+D:\Csharp Programming\CpuRamMeter\CpuRamMeter\obj\Debug\CpuRamMeter.Form1.resources
+D:\Programs\CpuRamMeter\CpuRamMeter\bin\Debug\CpuRamMeter.exe.config
+D:\Programs\CpuRamMeter\CpuRamMeter\bin\Debug\CpuRamMeter.exe
+D:\Programs\CpuRamMeter\CpuRamMeter\bin\Debug\CpuRamMeter.pdb
+D:\Programs\CpuRamMeter\CpuRamMeter\bin\Debug\MetroFramework.Design.dll
+D:\Programs\CpuRamMeter\CpuRamMeter\bin\Debug\MetroFramework.dll
+D:\Programs\CpuRamMeter\CpuRamMeter\bin\Debug\MetroFramework.Fonts.dll
+D:\Programs\CpuRamMeter\CpuRamMeter\obj\Debug\CpuRamMeter.csproj.AssemblyReference.cache
+D:\Programs\CpuRamMeter\CpuRamMeter\obj\Debug\CpuRamMeter.csproj.SuggestedBindingRedirects.cache
+D:\Programs\CpuRamMeter\CpuRamMeter\obj\Debug\CpuRamMeter.Form1.resources
+D:\Programs\CpuRamMeter\CpuRamMeter\obj\Debug\CpuRamMeter.Properties.Resources.resources
+D:\Programs\CpuRamMeter\CpuRamMeter\obj\Debug\CpuRamMeter.csproj.GenerateResource.cache
+D:\Programs\CpuRamMeter\CpuRamMeter\obj\Debug\CpuRamMeter.csproj.CoreCompileInputs.cache
+D:\Programs\CpuRamMeter\CpuRamMeter\obj\Debug\CpuRamMeter.csproj.CopyComplete
+D:\Programs\CpuRamMeter\CpuRamMeter\obj\Debug\CpuRamMeter.exe
+D:\Programs\CpuRamMeter\CpuRamMeter\obj\Debug\CpuRamMeter.pdb
