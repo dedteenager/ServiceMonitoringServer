@@ -21,7 +21,7 @@ namespace CpuRamMeter
 {
     public partial class Form1 : MetroFramework.Forms.MetroForm
     {
-        public string path = @"\CpuRamLog\log.txt";
+        public string path = @"\log.txt";
         public Form1()
         {
             InitializeComponent();
